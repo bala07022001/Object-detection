@@ -37,3 +37,5 @@ Annotated image (with boxes and labels)
 
 Text summary like: "Detected objects: person, dog, bicycle"
 
+
+
